@@ -1,7 +1,7 @@
 {
     "name": "Amons Modpack",
     "version_number": "1.1.1",
-    "website_url": "",
+    "website_url": "https://github.com/cp-Amon/AmonsModpack",
     "description": "Just a kinda big modpack for friends and I",
     "dependencies": 
     [
